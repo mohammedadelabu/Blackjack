@@ -1,0 +1,39 @@
+/* #increment-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: darkgreen;
+} */
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: darkgreen;
+    background-image: url(download\ \(6\).png);
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+h2 {
+    color:rgb(245, 12, 12);
+}
+
+p {
+    font-style: italic;
+    color:black
+}
+
+button {
+    padding: 5px 0px 5px 0px;
+    color:#016f32;
+    width: 100px;
+    background: goldenrod;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+
+}
